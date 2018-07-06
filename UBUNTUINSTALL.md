@@ -1,5 +1,6 @@
-e test.mess = 1
-sh
+Prereq:
+
+```bash
 apt-get install zsh
 apt-get install git-core
 ```
